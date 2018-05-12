@@ -1,0 +1,28 @@
+_repo: '---_27402'
+_version: 0.1.0
+alternative_title: Feng Liu Wu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zuohuasanren
+    aliases:
+    - 坐花散人
+    - Tso-hua-san-jen
+    gutenberg_agent_id: '32671'
+    url: http://www.gutenberg.org/2009/agents/32671
+description: ''
+gutenberg_issued: '2008-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27402'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction'
+title: 風流悟
+url: http://www.gutenberg.org/ebooks/27402
